@@ -17,7 +17,7 @@ session_start();
 		</section>
 
 		<footer>
-			<?php include("inclusion/php");?>
+			<?php include("inclusion/footer.php");?>
 		</footer>
 	</body>
 </html>
